@@ -1,4 +1,4 @@
-A aplicação foi construída para entrega do desafio final do programa MandaBem para o estágio em desenvolvimento de software na Mandarin.
+A aplicação construída durante o desafio final do programa MandaBem para o estágio em desenvolvimento de software na Mandarin.
 
 Para o projeto foram usados NextJs, Typescript e Styled-Components. O deploy foi feito através da Vercel e pode ser acessado nesse [link](https://apipokemon-seven.vercel.app/ß)
 
